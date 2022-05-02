@@ -84,9 +84,9 @@
   "AVAILABILITY.COMMON": "Średnio Dostępne",
   "AVAILABILITY.AVERAGE": "Niezwykłe",
   "AVAILABILITY.SCARCE": "Skąpy",
-  "AVAILABILITY.RARE": "Żadkie",
-  "AVAILABILITY.VERY_RARE": "Bardzo Żadkie",
-  "AVAILABILITY.EXTREMELY_RARE": "Wyjątkowo Żadkie",
+  "AVAILABILITY.RARE": "Rzadkie",
+  "AVAILABILITY.VERY_RARE": "Bardzo Rzadkie",
+  "AVAILABILITY.EXTREMELY_RARE": "Wyjątkowo Rzadkie",
   "AVAILABILITY.NEAR_UNIQUE": "Prawie Wyjątkowe",
   "AVAILABILITY.UNIQUE": "Wyjątkowe",
 
